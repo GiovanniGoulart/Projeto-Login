@@ -35,4 +35,4 @@ Programa que simula uma tela de login para que o usuário possa  acessar sua con
 ## :memo: Licença
 Esse projeto está sob a licença MIT.
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito por https://github.com/GiovanniGoulart
